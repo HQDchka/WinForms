@@ -1,0 +1,14 @@
+D:\Programming\WinForms\HW14\HW14\bin\Debug\HW14.exe.config
+D:\Programming\WinForms\HW14\HW14\bin\Debug\HW14.exe
+D:\Programming\WinForms\HW14\HW14\bin\Debug\HW14.pdb
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.csproj.AssemblyReference.cache
+D:\Programming\WinForms\HW14\HW14\obj\Debug\MainWindow.baml
+D:\Programming\WinForms\HW14\HW14\obj\Debug\MainWindow.g.cs
+D:\Programming\WinForms\HW14\HW14\obj\Debug\App.g.cs
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14_MarkupCompile.cache
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.g.resources
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.Properties.Resources.resources
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.csproj.GenerateResource.cache
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.exe
+D:\Programming\WinForms\HW14\HW14\obj\Debug\HW14.pdb
