@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\WinForms\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|d:\\programming\\winforms\\tictactoe\\tictactoe\\frmtictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\frmtictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|D:\\Programming\\WinForms\\TicTacToe\\tictactoe\\frmtictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\frmtictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|D:\\Programming\\WinForms\\TicTacToe\\tictactoe\\frmtictactoe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934F0BAC-EC8F-4812-AB85-DAA6470D8BF5}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\frmtictactoe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTicTacToe.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.Designer.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\FrmTicTacToe.Designer.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.Designer.cs",
+              "RelativeToolTip": "TicTacToe\\FrmTicTacToe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:21:48.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTicTacToe.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\FrmTicTacToe.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TicTacToe\\FrmTicTacToe.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T07:19:36.507Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTicTacToe.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\FrmTicTacToe.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\TicTacToe\\TicTacToe\\FrmTicTacToe.cs",
+              "RelativeToolTip": "TicTacToe\\FrmTicTacToe.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:01:57.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
