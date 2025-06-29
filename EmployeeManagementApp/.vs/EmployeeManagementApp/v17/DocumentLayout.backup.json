@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\WinForms\\EmployeeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|D:\\Programming\\WinForms\\EmployeeManagementApp\\employeemanagementapp\\views\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|d:\\programming\\winforms\\employeemanagementapp\\employeemanagementapp\\views\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|d:\\programming\\winforms\\employeemanagementapp\\employeemanagementapp\\views\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\views\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|d:\\programming\\winforms\\employeemanagementapp\\employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A6654-EA34-42CD-945D-548BA2DB2EB2}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:33:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\EmployeeForm.Designer.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAPgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:08:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Program.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:56:08.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Views\\EmployeeForm.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\EmployeeManagementApp\\EmployeeManagementApp\\Views\\EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EmployeeManagementApp\\Views\\EmployeeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:18:53.554Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

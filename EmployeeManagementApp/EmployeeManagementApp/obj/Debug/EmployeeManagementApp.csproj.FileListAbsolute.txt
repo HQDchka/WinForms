@@ -1,0 +1,10 @@
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.EmployeeForm.resources
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+D:\Programming\WinForms\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
