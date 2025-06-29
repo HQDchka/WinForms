@@ -1,0 +1,11 @@
+D:\Programming\WinForms\19.06\19.06\bin\Debug\19.06.exe.config
+D:\Programming\WinForms\19.06\19.06\bin\Debug\19.06.exe
+D:\Programming\WinForms\19.06\19.06\bin\Debug\19.06.pdb
+D:\Programming\WinForms\19.06\19.06\obj\Debug\19.06.csproj.AssemblyReference.cache
+D:\Programming\WinForms\19.06\19.06\obj\Debug\_19._06.Form1.resources
+D:\Programming\WinForms\19.06\19.06\obj\Debug\_19._06.Form2.resources
+D:\Programming\WinForms\19.06\19.06\obj\Debug\_19._06.Properties.Resources.resources
+D:\Programming\WinForms\19.06\19.06\obj\Debug\19.06.csproj.GenerateResource.cache
+D:\Programming\WinForms\19.06\19.06\obj\Debug\19.06.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\19.06\19.06\obj\Debug\19.06.exe
+D:\Programming\WinForms\19.06\19.06\obj\Debug\19.06.pdb
