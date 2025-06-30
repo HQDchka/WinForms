@@ -1,0 +1,11 @@
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.csproj.AssemblyReference.cache
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.Client1.resources
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.Client2.resources
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.Properties.Resources.resources
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.csproj.GenerateResource.cache
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\examWF\examWF\bin\Debug\examWF.exe.config
+D:\Programming\WinForms\examWF\examWF\bin\Debug\examWF.exe
+D:\Programming\WinForms\examWF\examWF\bin\Debug\examWF.pdb
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.exe
+D:\Programming\WinForms\examWF\examWF\obj\Debug\examWF.pdb

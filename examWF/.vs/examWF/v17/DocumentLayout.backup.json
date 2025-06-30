@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\WinForms\\examWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|d:\\programming\\winforms\\examwf\\examwf\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|solutionrelative:examwf\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|d:\\programming\\winforms\\examwf\\examwf\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|solutionrelative:examwf\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|d:\\programming\\winforms\\examwf\\examwf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|solutionrelative:examwf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|d:\\programming\\winforms\\examwf\\examwf\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|solutionrelative:examwf\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|d:\\programming\\winforms\\examwf\\examwf\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FEE9AF-F335-4F41-AF18-500EC3AA7494}|examWF\\examWF.csproj|solutionrelative:examwf\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client1.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\examWF\\examWF\\Client1.cs",
+              "RelativeDocumentMoniker": "examWF\\Client1.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\examWF\\examWF\\Client1.cs",
+              "RelativeToolTip": "examWF\\Client1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:26:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client2.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\examWF\\examWF\\Client2.cs",
+              "RelativeDocumentMoniker": "examWF\\Client2.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\examWF\\examWF\\Client2.cs",
+              "RelativeToolTip": "examWF\\Client2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:12:07.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\examWF\\examWF\\Program.cs",
+              "RelativeDocumentMoniker": "examWF\\Program.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\examWF\\examWF\\Program.cs",
+              "RelativeToolTip": "examWF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:59:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\examWF\\examWF\\Client2.cs",
+              "RelativeDocumentMoniker": "examWF\\Client2.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\examWF\\examWF\\Client2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "examWF\\Client2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:28:09.188Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Programming\\WinForms\\examWF\\examWF\\Client1.cs",
+              "RelativeDocumentMoniker": "examWF\\Client1.cs",
+              "ToolTip": "D:\\Programming\\WinForms\\examWF\\examWF\\Client1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "examWF\\Client1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:27:36.121Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

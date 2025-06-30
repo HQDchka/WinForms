@@ -1,0 +1,15 @@
+D:\Programming\WinForms\examWPF\examWPF\bin\Debug\examWPF.exe.config
+D:\Programming\WinForms\examWPF\examWPF\bin\Debug\examWPF.exe
+D:\Programming\WinForms\examWPF\examWPF\bin\Debug\examWPF.pdb
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.csproj.AssemblyReference.cache
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\MainWindow.g.cs
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\App.g.cs
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF_MarkupCompile.cache
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF_MarkupCompile.lref
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\MainWindow.baml
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.g.resources
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.Properties.Resources.resources
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.csproj.GenerateResource.cache
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.exe
+D:\Programming\WinForms\examWPF\examWPF\obj\Debug\examWPF.pdb
