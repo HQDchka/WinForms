@@ -1,0 +1,15 @@
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csproj.AssemblyReference.cache
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\MainWindow.g.cs
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\App.g.cs
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp_MarkupCompile.cache
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp_MarkupCompile.lref
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.exe.config
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.exe
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\bin\Debug\FirstWpfApp.pdb
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\MainWindow.baml
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.g.resources
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.Properties.Resources.resources
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csproj.GenerateResource.cache
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.exe
+D:\Programming\WinForms\FirstWpfApp\FirstWpfApp\obj\Debug\FirstWpfApp.pdb
