@@ -1,0 +1,10 @@
+D:\Programming\WinForms\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\Programming\WinForms\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\Programming\WinForms\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\Programming\WinForms\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
