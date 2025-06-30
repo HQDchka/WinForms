@@ -1,0 +1,10 @@
+D:\Programming\WinForms\GDIFigures\GDIFigures\bin\Debug\GDIFigures.exe.config
+D:\Programming\WinForms\GDIFigures\GDIFigures\bin\Debug\GDIFigures.exe
+D:\Programming\WinForms\GDIFigures\GDIFigures\bin\Debug\GDIFigures.pdb
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.csproj.AssemblyReference.cache
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.Form1.resources
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.Properties.Resources.resources
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.csproj.GenerateResource.cache
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.csproj.CoreCompileInputs.cache
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.exe
+D:\Programming\WinForms\GDIFigures\GDIFigures\obj\Debug\GDIFigures.pdb
